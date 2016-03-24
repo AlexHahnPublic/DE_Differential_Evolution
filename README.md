@@ -1,0 +1,2 @@
+# DE_Differential_Evolution
+Given an Objective function, one has several numerical, linear v nonlinear, computational techniques to optimize/ analyze the surface provided. Differential Evolution is one of these computationally numerical methods. To summarize at a high level, DE adds the weighted difference between two population vectors to a third vector. This way no separate probability distribution has to be used which makes the scheme completely self-organizing.
